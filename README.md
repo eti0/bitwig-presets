@@ -1,2 +1,1 @@
-# bitwig-presets
-instrument / plugin / chain presets made for bitwig
+cool bitwig patches for depressed kids
